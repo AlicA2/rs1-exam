@@ -1,0 +1,160 @@
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\appsettings.json
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.staticwebassets.runtime.json
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.exe
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.deps.json
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.runtimeconfig.json
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\ref\FIT_Api_Examples.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.pdb
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Humanizer.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.EntityFramework.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.csproj.AssemblyReference.cache
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.AssemblyInfoInputs.cache
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.AssemblyInfo.cs
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.csproj.CoreCompileInputs.cache
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\scopedcss\bundle\FIT_Api_Examples.styles.css
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.csproj.CopyComplete
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\ref\FIT_Api_Examples.dll
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.pdb
+C:\Users\adil\Downloads\rs1-2023-01-09-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.genruntimeconfig.cache
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\appsettings.json
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.staticwebassets.runtime.json
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.exe
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.deps.json
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.runtimeconfig.json
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\FIT_Api_Examples.pdb
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Humanizer.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.AspNetIdentity.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.EntityFramework.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\IdentityServer4.Storage.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.ApiAuthorization.IdentityServer.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.csproj.AssemblyReference.cache
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.AssemblyInfoInputs.cache
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.AssemblyInfo.cs
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.csproj.CoreCompileInputs.cache
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\scopedcss\bundle\FIT_Api_Examples.styles.css
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.csproj.CopyComplete
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\refint\FIT_Api_Examples.dll
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.pdb
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\FIT_Api_Examples.genruntimeconfig.cache
+C:\Users\alica\OneDrive\Radna površina\Rj1\rs1-2023-01-31-ispitni-zadaci\webapi\FIT_Api_Examples\obj\Debug\net6.0\ref\FIT_Api_Examples.dll
